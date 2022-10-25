@@ -127,8 +127,8 @@ nav li:active {
 ☑️ **Step 10:** Finally, style the `<footer>` tag.
 
 ### Checkpoint: Test your web app on a device or a simulator. 
-(See [Lab 0](https://github.com/cs3041-b22/lab0#set-up-testing-environnment) for using Chrome Developer tools)
-
+(See [Lab 0](https://github.com/cs3041-b22/lab0#set-up-testing-environment) for using Chrome Developer tools)
+             
 ☑️ **Step 11:** Now, create 3 additional html files that will be hyperlinked through the buttons:
 ```
 stores.html
