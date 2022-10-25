@@ -140,6 +140,7 @@ Each of these files should contain at least a header and a footer and should hav
 For now, the content of these pages is not very important, we will continue to develop this application together over the next few labs.
 
 ☑️ **Step 12:** Save all of your work and push to GitHub
+
 [Submit your local changes](https://github.com/cs3041-b22/lab0#3-clone-and-edit-your-project) to your online repository
 
 ☑️ **Step 13:** On Canvas, submit the following: 
