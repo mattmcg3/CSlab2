@@ -1,4 +1,4 @@
-# Lab 1:  Introducing HTML5 and CSS3
+# Lab 2:  More HTML5 and CSS, Introducing JavaScript
 
 In this lab we will cover some basic HTML5 and CSS, as well as ways to make your web app look and feel like a native app. 
 
